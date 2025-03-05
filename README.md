@@ -1,6 +1,6 @@
 ## Pipeline overview  
 
-This MLOps pipeline automated the process in the project of gold price forecasting by integrating data extraction, transformation, and model retraining. It leverages Azure Data Lake, Azure DataBricks Notebooks to streamline data ingestion, preprocessing, and model updates.  
+This MLOps pipeline automated the process in the project of gold price forecasting by integrating data extraction, transformation, and model retraining. It leverages some Azure solutions to streamline data ingestion, preprocessing, and model updates.  
 
 ### Pipeline architecture  
 
