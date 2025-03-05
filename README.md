@@ -1,3 +1,5 @@
+# Gold price forecasting - MLOps Pipeline  
+
 ## Pipeline overview  
 
 This MLOps pipeline automated the process in the project of gold price forecasting by integrating data extraction, transformation, and model retraining. It leverages some Azure solutions to streamline data ingestion, preprocessing, and model updates.  
