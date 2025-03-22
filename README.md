@@ -24,10 +24,9 @@ The pipeline consists of the following key stages:
 
 - Load raw data from Azure Data Lake into a **Databricks Notebook**.  
 - Perform **data cleaning** (handling missing values, duplicate removal, and type conversions).  
-- Extract **new features** such as moving averages, trend indicators, and volatility metrics.  
 - Store the processed data in the **"ready-transformed-data"** folder in Azure Data Lake.  
 - The notebook `transforming_data.ipynb` implements this phase.
-- 
+
 ---
 
 ### 3) Model retraining & deployment  
